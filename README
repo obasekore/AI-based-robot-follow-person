@@ -1,0 +1,13 @@
+# ToDo
+
+## Detection
+
+- Pose Estimation
+- Object detection
+- Segmentation
+
+## Control
+ 
+- PID
+- LQR
+- MPC
